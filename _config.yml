@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 site:
-  logo: renato.jpg
+  logo: "renato.jpg"
+  description: "teste"
